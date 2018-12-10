@@ -9,5 +9,10 @@ int main(void)
 	a = -1;              // 음수 저장
 	printf("%u\n", a);   // %u로 출력
 
+	unsigned long long b;
+	b = 18446744073709551615;
+	printf("%lld\n", b);
+	printf("%llu\n", b);
+
 	return 0;
 }
