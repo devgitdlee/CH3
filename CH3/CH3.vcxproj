@@ -19,6 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="연습문제3-2-3.c" />
+    <ClCompile Include="연습문제3-2-4.C" />
+    <ClCompile Include="연습문제3-2-5.c" />
     <ClCompile Include="연습문제3.c" />
     <ClCompile Include="연습문제4.c" />
     <ClCompile Include="연습문제5.c" />
